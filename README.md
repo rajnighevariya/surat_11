@@ -6,4 +6,5 @@
 <img src="images/BAPS_Surat_3.jpg" >
 <img src="images/bal_1.jpg">
 <img src="images/recent_1.png" >
+<img src="images/sa_1.jpg">
 
