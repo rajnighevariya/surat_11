@@ -7,5 +7,7 @@
 <img src="images/bal_1.jpg">
 <img src="images/recent_1.png" >
 <img src="images/c31.jpg">
-<img src="images/s13.jpg">
+<img src="images/s13.JPG">
+<img src="images/mah_1.jpg">
+<img src="images/re_1.png">
 
